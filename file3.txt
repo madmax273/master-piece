@@ -1,1 +1,1 @@
-file 3
+now file 3 has been changed
